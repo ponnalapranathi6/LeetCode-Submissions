@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -47,10 +49,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1389-create-target-array-in-the-given-order) |
 ## String
 |  |
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
