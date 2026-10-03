@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ponnalapranathi6/LeetCode-Submissions/tree/master/1389-create-target-array-in-the-given-order) |
 ## String
 |  |
